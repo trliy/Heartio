@@ -14,7 +14,7 @@ const manifest = {
   id: "community.heartio",
   version: "1.0.0",
   name: "Heartio",
-  description: "A radio streaming service for Stremio.",
+  description: "Stream your favorite iHeartRadio stations directly in Stremio.",
   icon: "https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG",
   logo: "https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG",
   types: ["radio"],
