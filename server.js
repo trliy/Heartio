@@ -16,6 +16,7 @@ const manifest = {
   name: "Heartio",
   description: "A radio streaming service for Stremio.",
   icon: "https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG",
+  logo: "https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG",
   types: ["radio"],
   catalogs: [
     {
