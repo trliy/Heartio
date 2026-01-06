@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/IHeartRadio_logo.svg/512px-IHeartRadio_logo.svg.png" width="128" height="128" alt="Heartio icon">
+</p>
+
+<h1 align="center">Heartio</h1>
+
+
 # Heartio
 
 Heartio is a **community-made Stremio addon** that brings live radio stations into Stremio using iHeartRadio sources.
