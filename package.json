@@ -1,7 +1,7 @@
 {
   "name": "heartio",
   "version": "1.0.0",
-  "description": "A radio streaming service for Stremio.",
+  "description": "Stream your favorite iHeartRadio stations directly in Stremio.",
   "main": "server.js",
   "type": "module",
   "scripts": {
