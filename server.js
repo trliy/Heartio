@@ -20,7 +20,7 @@ const manifest = {
   version: "1.0.0",
   name: "Heartio",
   description: "A radio streaming service for Stremio.",
-  icon: "https://raw.githubusercontent.com/trliy/Heartio/628b02e7ef103f6e5e9cbdbb9db46f4c1baaf664/Heartio.PNG",
+  icon: "https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG",
   types: ["radio"],
   catalogs: [
     {
@@ -250,7 +250,7 @@ app.get("/", (req, res) => {
             </p>
         </div>
         <div class="footer">
-            Powered by iHeartRadio API • Built for Stremio
+            Powered by iHeartRadio API • Built for Stremio.
         </div>
     </body>
     </html>
