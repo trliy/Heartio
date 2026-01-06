@@ -12,7 +12,7 @@ const manifest = {
   version: "1.0.0",
   name: "Heartio",
   description: "A radio streaming service for Stremio.",
-  icon: "https://play-lh.googleusercontent.com/mLw46QbBnQtDoEGjKjBOo0qwSCH9YKo-owj0s_boiskp3bFxfGhB62bMpTBXfJ6mgMw=s188",
+  icon: "https://raw.githubusercontent.com/trliy/Heartio/628b02e7ef103f6e5e9cbdbb9db46f4c1baaf664/Heartio.PNG",
   types: ["radio"],
   catalogs: [
     {
