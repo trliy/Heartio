@@ -232,7 +232,7 @@ app.get("/", (req, res) => {
             
             <div class="install-box">
                 <p style="margin-top:0; opacity: 1;">Copy this URL to install in Stremio:</p>
-                <code>${host}/manifest.json</code>
+                <code>https://heartio-ydud.onrender.com/manifest.json/manifest.json</code>
             </div>
 
             <div>
