@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/IHeartRadio_logo.svg/512px-IHeartRadio_logo.svg.png" width="128" height="128" alt="Heartio icon">
+  <img src="https://play-lh.googleusercontent.com/mLw46QbBnQtDoEGjKjBOo0qwSCH9YKo-owj0s_boiskp3bFxfGhB62bMpTBXfJ6mgMw=s188" width="128" height="128" alt="Heartio icon">
 </p>
 
 <h1 align="center">Heartio</h1>
-
 
 # Heartio
 
