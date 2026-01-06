@@ -31,6 +31,13 @@ const manifest = {
   idPrefixes: ["heartio"]
 };
 
+{
+  "stremioAddonsConfig": {
+    "issuer": "https://stremio-addons.net",
+    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..k6VPheWG_Ry-gGJ4JThenQ.7S7mJfgxj19MEE4Y44TKTVMiWzzJYKj8s6n-lSXtl1YdUKsIStA2jr_YuubXPy4IpUEBXh4TRaowtfNuycWNHxVhnbwKrnccFavcLK41VXLmr0FzffJTxXS2pB-7ooEi.g3kLcePL-wQcZLjsXnUBMg"
+  }
+}
+
 app.get("/manifest.json", (req, res) => {
   res.json(manifest);
 });
