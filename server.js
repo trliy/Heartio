@@ -10,11 +10,6 @@ const app = express();
 
 app.use(cors({ origin: "*" }));
 
-app.use((req, res, next) => {
-  res.setHeader("Content-Type", "application/json; charset=utf-8");
-  next();
-});
-
 const manifest = {
   id: "community.heartio",
   version: "1.0.0",
