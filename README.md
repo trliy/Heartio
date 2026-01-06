@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/mLw46QbBnQtDoEGjKjBOo0qwSCH9YKo-owj0s_boiskp3bFxfGhB62bMpTBXfJ6mgMw=s188" width="128" height="128" alt="Heartio icon">
+  <img src="https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG" width="128" height="128" alt="Heartio icon">
 </p>
 
 <h1 align="center">Heartio</h1>
