@@ -17,12 +17,12 @@ const manifest = {
   description: "Stream your favorite iHeartRadio stations directly in Stremio.",
   icon: "https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG",
   logo: "https://raw.githubusercontent.com/trliy/Heartio/main/icon.PNG",
-  types: ["radio"],
+  types: ["Radio"],
   catalogs: [
     {
-      type: "radio",
+      type: "Radio",
       id: "heartio-top",
-      name: "Top Stations",
+      name: "Heartio",
       extra: [
         {
           name: "search",
