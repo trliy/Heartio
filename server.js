@@ -56,7 +56,7 @@ app.get("/catalog/:type/:id/:extra.json", async (req, res) => {
   res.json({
     metas: (stations || []).map(s => ({
       id: `heartio:${s.id}`,
-      type: "radio",
+      type: "Radio",
       name: s.name,
       poster: s.logo
     }))
@@ -73,7 +73,7 @@ app.get("/catalog/:type/:id.json", async (req, res) => {
   res.json({
     metas: (stations || []).map(s => ({
       id: `heartio:${s.id}`,
-      type: "radio",
+      type: "Radio",
       name: s.name,
       poster: s.logo
     }))
@@ -87,7 +87,7 @@ app.get("/meta/:type/:id.json", async (req, res) => {
   res.json({
     meta: {
       id: `heartio:${station.id}`,
-      type: "radio",
+      type: "Radio",
       name: station.name,
       poster: station.logo
     }
